@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Total Quartz Auto Care</name>
+    <description/>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-C2185B-nodesc-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-nodesc-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-C2185B-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-C2185B-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-C2185B-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Total Quartz Auto Care</name>
+      <Placemark>
+        <name>Yılmazlar Oto Total Quartz Auto Care</name>
+        <styleUrl>#icon-1899-C2185B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            36.5380259,40.3327482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3A Otomotiv Total Quartz Auto Care</name>
+        <styleUrl>#icon-1899-C2185B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            29.114341,41.027969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oto Yılmaz Total Quartz Auto Care</name>
+        <styleUrl>#icon-1899-C2185B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            28.6282723,41.017514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Çetin Oto Total Quartz Auto Care</name>
+        <styleUrl>#icon-1899-C2185B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            28.4204781,40.0814022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mert Oto Total Quartz Auto Care</name>
+        <styleUrl>#icon-1899-C2185B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            27.340749,41.406844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avrupa Oto Total Quartz Auto Care</name>
+        <styleUrl>#icon-1899-C2185B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            27.48469,40.966261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ay Yıldız Total Quartz Auto Care</name>
+        <styleUrl>#icon-1899-C2185B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            27.193071,38.443712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aydoğan Total Quartz Auto Care</name>
+        <styleUrl>#icon-1899-C2185B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            27.2518089,38.4621151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Doğan Oto Total Quartz Auto Care</name>
+        <styleUrl>#icon-1899-C2185B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            26.3918161,40.1305426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Total Rubia Truck Center</name>
+      <Placemark>
+        <name>Açıkgözler Total Rubia Truck Center</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            34.0012359,38.3764303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Demirhan Total Rubia Truck Center</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            28.1531465,39.9181383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
